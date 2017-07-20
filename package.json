@@ -1,8 +1,8 @@
-{
+﻿{
   "name": "vue-douyu",
   "version": "1.0.0",
   "description": "vue模仿斗鱼",
-  "author": "董书华 <ddy_dhj@163.com>",
+  "author":王峰 <peternodejs@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
